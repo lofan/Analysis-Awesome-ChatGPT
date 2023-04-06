@@ -14,6 +14,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 ## Application
 [ChatGPT 提示語說明書：通用三層結構與 9 個技巧提高 AI 生產力](https://www.playpcesor.com/2023/04/chatgpt-9-ai.html)
+[用 ChatGPT 快速將會議語音逐字稿轉成完美文章表格的 5 個技巧] (https://www.playpcesor.com/2023/03/chatgpt-note.html)
 
 
 
